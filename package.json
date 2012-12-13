@@ -1,0 +1,14 @@
+{
+  "name": "petstore",
+  "version": "0.0.1",
+  "dependencies": { 
+    "coffee-script": "~1.3",
+    "stitch": "~0.3.3",
+    "express": "3",
+    "less": "",
+    "less-middleware": "",
+    "mocha": "1.4.2",
+    "should": ""
+  }
+}
+

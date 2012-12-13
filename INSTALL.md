@@ -1,0 +1,6 @@
+INSTALL
+=======
+
+    npm install .
+
+
